@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '阿帅的健康笔记',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'i.songwang.life',
   author: '阿帅',
 
   // open graph metadata (optional)
